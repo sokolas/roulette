@@ -1,0 +1,19 @@
+{
+    "name": "roulette-bot",
+    "author": "Sokolas",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node dist/index.js",
+        "start:ts": "ts-node index.ts",
+        "build": "tsc",
+        "lint": "tsc --noEmit && eslint **/*.ts"
+    },
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    },
+    "devDependencies": {
+        "@types/node": "^12.20.16",
+        "@types/ws": "^7.2.7"
+    }
+}
