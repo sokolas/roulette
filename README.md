@@ -4,10 +4,10 @@ Entertain your users with this simple emoji roulette game.
 
 ## Usage
 
-`!r-set` - set up emojis (add or delete reactions to the message)
-`!r-list` - list active emojis
-`!r-save` - save emojis
-`!r-roll` - roll!
+* `!r-set` - set up emojis (add or delete reactions to the message)
+* `!r-list` - list active emojis
+* `!r-save` - save emojis
+* `!r-roll` - roll!
 
 ## Setup
 
